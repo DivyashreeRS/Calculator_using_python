@@ -1,3 +1,3 @@
 # Simple Calculator using python
 
-for checking
+for checking purpose
