@@ -3,7 +3,7 @@
 
 This Program does the basic operations like addition,subtraction, multiplication and division 
    _____________________
-  |  _________________  |
+  |  _________________  |\n
   | |const 3.14159265 | |
   | |_________________| |
   |  ___ ___ ___   ___  |
