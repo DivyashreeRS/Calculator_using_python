@@ -1,5 +1,5 @@
 # Simple Calculator using python
-##Using simple if-elif-else conditions.
+## Using simple if-elif-else conditions.
 
 This Program does the basic operations like addition,subtraction, multiplication and division 
    _____________________
